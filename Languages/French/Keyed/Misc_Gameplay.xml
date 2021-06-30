@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<RFM_InsultFaction>Insulter {0} ({1})</RFM_InsultFaction>
+	<RFM_SettingsChanceGetRaided>Chance d'être raidé ({0}%)</RFM_SettingsChanceGetRaided>
+	<RFM_SettingsTimeBeforeInsultingAgain>Temps à attendre avant de pouvoir insulter à nouveau une faction (après avoir été raidé) ({0}h)</RFM_SettingsTimeBeforeInsultingAgain>
+	<RFM_SettingsGoodwillLoss>Perte de relation maximale (-{0})</RFM_SettingsGoodwillLoss>
+	<RFM_SettingsMinHourStartRaid>Nombre d'heure minimum à attendre avant d'être raidé ({0}h)</RFM_SettingsMinHourStartRaid>
+	<RFM_SettingsMaxHourStartRaid>Nombre d'heure maximum à attendre avant d'être raidé ({0}h)</RFM_SettingsMaxHourStartRaid>
+	<RFM_SettingsAllowChanceAirDrop>Petite chance d'être raidé immédiatement par voie aérienne</RFM_SettingsAllowChanceAirDrop>
+	
+	<RFM_InsultAlly>{0} {1} ({2}) est trés énervé, sa à dégradé les relations que vous aviez avec eux !</RFM_InsultAlly>
+	<RFM_InsultEnemyWithoutRaid>{0} {1} ({2}) vous déteste et veux vraiment vous le faire payer !</RFM_InsultEnemyWithoutRaid>
+	<RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+	<RFM_StartRaidNow>{0} ({1}) est en train de vous raidé !</RFM_StartRaidNow>
+	<RFM_StartRaidDelayed>{0} ({1}) est vraiment trés énervé ! Il à prévu de vous raidé dans {2}!</RFM_StartRaidDelayed>
+	<RFM_StartAirDropRaidNow>{0} ({1}) est en train de vous raidé par voie aérienne!</RFM_StartAirDropRaidNow>
+</LanguageData>

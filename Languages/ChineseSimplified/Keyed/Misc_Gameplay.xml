@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RFM_InsultFaction>侮辱{0}（{1}）</RFM_InsultFaction>
+  <RFM_SettingsChanceGetRaided>被袭击的机会（{0}％）</RFM_SettingsChanceGetRaided>
+  <RFM_SettingsTimeBeforeInsultingAgain>再次侮辱派系之前的等待时间（被袭击后）（{0}）</RFM_SettingsTimeBeforeInsultingAgain>
+  <RFM_SettingsGoodwillLoss>每次侮辱都会造成最大的关系损失（{0}）</RFM_SettingsGoodwillLoss>
+  <RFM_SettingsMinHourStartRaid>被袭击前需要等待的最短时间 ({0})</RFM_SettingsMinHourStartRaid>
+  <RFM_SettingsMaxHourStartRaid>被袭击前需要等待的最长时间 ({0})</RFM_SettingsMaxHourStartRaid>
+  <RFM_SettingsAllowChanceAirDrop>小概率会直接出现空投袭击</RFM_SettingsAllowChanceAirDrop>
+
+  <RFM_InsultAlly>{0} {1}（{2}）非常失望，他们降低了与你的关系！</RFM_InsultAlly>
+  <RFM_InsultEnemyWithoutRaid>{0} {1}（{2}）讨厌你，真的想让你付出代价！</RFM_InsultEnemyWithoutRaid>
+  <RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+  <RFM_StartRaidNow>{0}（{1}）开始袭击你！</RFM_StartRaidNow>
+  <RFM_StartRaidDelayed>{0}（{1}）非常生气！ 他们将在{2}后开始袭击！</RFM_StartRaidDelayed>
+  <RFM_StartAirDropRaidNow>{0} ({1})空投到这里并立即攻击</RFM_StartAirDropRaidNow>
+</LanguageData>

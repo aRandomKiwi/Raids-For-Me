@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<RFM_InsultFaction>侮辱{0}（{1}）</RFM_InsultFaction>
+	<RFM_SettingsChanceGetRaided>急襲される確率（{0}％）</RFM_SettingsChanceGetRaided>
+	<RFM_SettingsTimeBeforeInsultingAgain>派閥の襲撃後に再び侮辱できるまでの時間（{0}）</RFM_SettingsTimeBeforeInsultingAgain>
+	<RFM_SettingsGoodwillLoss>侮辱による友好関係の最大損失量（{0}）</RFM_SettingsGoodwillLoss>
+	<RFM_SettingsMinHourStartRaid>急襲までの最小待機時間（{0}）</RFM_SettingsMinHourStartRaid>
+	<RFM_SettingsMaxHourStartRaid>急襲までの最大待機時間（{0}）</RFM_SettingsMaxHourStartRaid>
+	<RFM_SettingsAllowChanceAirDrop>即時ドロップポッド襲撃が行われる可能性</RFM_SettingsAllowChanceAirDrop>
+	
+	<RFM_InsultAlly>{0} {1}（{2}）は非常に失望して、この事は彼らとの関係を悪化させました！</RFM_InsultAlly>
+	<RFM_InsultEnemyWithoutRaid>{0} {1}（{2}）はあなたを憎み、言ったことのツケを本気で支払わせようとします！</RFM_InsultEnemyWithoutRaid>
+	<RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+	<RFM_StartRaidNow>{0}（{1}）があなたへ襲撃を開始しました！</RFM_StartRaidNow>
+	<RFM_StartRaidDelayed>{0}（{1}）は本当に怒っています。あなたは{2}に襲撃されるでしょう！</RFM_StartRaidDelayed>
+	<RFM_StartAirDropRaidNow>{0}（{1}）がドロップポッド降下襲撃をを開始しました！</RFM_StartAirDropRaidNow>
+</LanguageData>

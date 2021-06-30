@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<RFM_InsultFaction>Insult {0} ({1})</RFM_InsultFaction>
+	<RFM_SettingsChanceGetRaided>Chance to be raided ({0}%)</RFM_SettingsChanceGetRaided>
+	<RFM_SettingsTimeBeforeInsultingAgain>Time to wait before insulting a faction again (after be raided) ({0}h)</RFM_SettingsTimeBeforeInsultingAgain>
+	<RFM_SettingsGoodwillLoss>Maximum loss of goodwill with each insult ({0})</RFM_SettingsGoodwillLoss>
+	<RFM_SettingsMinHourStartRaid>Minimum hours to wait before being raided  ({0}h)</RFM_SettingsMinHourStartRaid>
+	<RFM_SettingsMaxHourStartRaid>Maximum hours to wait before being raided  ({0}h)</RFM_SettingsMaxHourStartRaid>
+	<RFM_SettingsAllowChanceAirDrop>Small chance to get an instant drop pod raid</RFM_SettingsAllowChanceAirDrop>
+	
+	<RFM_InsultAlly>{0} {1} ({2}) is very disappointed, it degraded the relation with them !</RFM_InsultAlly>
+	<RFM_InsultEnemyWithoutRaid>{0} {1} ({2}) hate you and really want to make you pay for this !</RFM_InsultEnemyWithoutRaid>
+	<RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+	<RFM_StartRaidNow>{0} ({1}) started raiding you !</RFM_StartRaidNow>
+	<RFM_StartRaidDelayed>{0} ({1}) is really pissed off! You will be raided in {2}!</RFM_StartRaidDelayed>
+	<RFM_StartAirDropRaidNow>{0} ({1}) started raiding you with air drop pod!</RFM_StartAirDropRaidNow>
+</LanguageData>

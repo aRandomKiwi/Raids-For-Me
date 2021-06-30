@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<RFM_InsultFaction>모욕 {0} ({1})</RFM_InsultFaction>
+	<RFM_SettingsChanceGetRaided>공격받을 확률 ({0} %)</RFM_SettingsChanceGetRaided>
+	<RFM_SettingsTimeBeforeInsultingAgain>파벌을 다시 모욕하기 전까지 기다리는 시간 (급습당한 후) ({0})</RFM_SettingsTimeBeforeInsultingAgain>
+	<RFM_SettingsGoodwillLoss>각 모욕을당한 영업권의 최대 손실 ({0})</RFM_SettingsGoodwillLoss>
+	<RFM_SettingsMinHourStartRaid>급습되기까지 대기 할 최소 시간 ({0})</RFM_SettingsMinHourStartRaid>
+	<RFM_SettingsMaxHourStartRaid>급습되기까지 대기하는 최대 시간 ({0})</RFM_SettingsMaxHourStartRaid>
+	<RFM_SettingsAllowChanceAirDrop>즉각적인 드롭 포드 습격을 얻을 수있는 작은 기회</RFM_SettingsAllowChanceAirDrop>
+	
+	<RFM_InsultAlly>{0} {1} ({2})은 (는) 매우 실망 스럽습니다</RFM_InsultAlly>
+	<RFM_InsultEnemyWithoutRaid>{0} {1} ({2})이 당신을 싫어하며 정말로 돈을 내고 싶습니다!</RFM_InsultEnemyWithoutRaid>
+	<RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+	<RFM_StartRaidNow>{0} ({1})이 (가) 당신을 공격하기 시작했습니다!</RFM_StartRaidNow>
+	<RFM_StartRaidDelayed>{0} ({1})이 정말 화났습니다! 당신은 {2}에 습격 당할 것입니다!</RFM_StartRaidDelayed>
+	<RFM_StartAirDropRaidNow>{0} ({1})이 (가) 에어 드롭 포드로 당신을 공격했습니다!</RFM_StartAirDropRaidNow>
+</LanguageData>

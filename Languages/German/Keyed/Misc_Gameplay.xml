@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<RFM_InsultFaction>Beleidigung {0} ({1})</RFM_InsultFaction>
+	<RFM_SettingsChanceGetRaided>Chance, überfallen zu werden ({0}%)</RFM_SettingsChanceGetRaided>
+	<RFM_SettingsTimeBeforeInsultingAgain>Zeit zu warten, bevor eine Fraktion erneut beleidigt wird (nach einer Razzia) ({0h})</RFM_SettingsTimeBeforeInsultingAgain>
+	<RFM_SettingsGoodwillLoss>Maximaler Goodwill-Verlust bei jeder Beleidigung ({0})</RFM_SettingsGoodwillLoss>
+	<RFM_SettingsMinHourStartRaid>Minimale Wartezeit bis zur Razzia ({0}h)</RFM_SettingsMinHourStartRaid>
+	<RFM_SettingsMaxHourStartRaid>Maximale Wartezeit bis zur Razzia ({0}h)</RFM_SettingsMaxHourStartRaid>
+	<RFM_SettingsAllowChanceAirDrop>Kleine Chance auf einen sofortigen Drop-Pod-Angriff</RFM_SettingsAllowChanceAirDrop>
+	
+	<RFM_InsultAlly>{0} {1} ({2}) ist sehr enttäuscht, es hat die Beziehung zu ihnen herabgesetzt!</RFM_InsultAlly>
+	<RFM_InsultEnemyWithoutRaid>{0} {1} ({2}) hasse Sie und möchte, dass Sie dafür bezahlen müssen!</RFM_InsultEnemyWithoutRaid>
+	<RFM_InsultEnemy>{0} {1}</RFM_InsultEnemy>
+	<RFM_StartRaidNow>{0} ({1}) hat begonnen, Sie zu plündern!</RFM_StartRaidNow>
+	<RFM_StartRaidDelayed>{0} ({1}) ist wirklich sauer! Sie werden in {2} überfallen!</RFM_StartRaidDelayed>
+	<RFM_StartAirDropRaidNow>{0} ({1}) hat begonnen, Sie mit einer Luftabwurfkapsel zu plündern!</RFM_StartAirDropRaidNow>
+</LanguageData>
