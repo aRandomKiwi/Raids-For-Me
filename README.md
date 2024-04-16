@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a href="https://github.com/aRandomKiwi/Raids-For-Me/releases">
-		<img src="https://img.shields.io/badge/release-1.0.7-4BC51D.svg?style=flat" alt="1.0.7" />
+		<img src="https://img.shields.io/badge/release-1.0.9-4BC51D.svg?style=flat" alt="1.0.9" />
     </a>
 	<img src="https://img.shields.io/github/downloads-pre/aRandomKiwi/Raids-For-Me/total.svg?style=popout-square&color=green" alt="Github Total Downloads" />
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1633517937">
