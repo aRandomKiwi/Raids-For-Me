@@ -4,11 +4,11 @@
 
 <p align="center">
 	<a href="https://github.com/aRandomKiwi/Raids-For-Me/releases">
-		<img src="https://img.shields.io/badge/release-1.0.3-4BC51D.svg?style=flat" alt="1.0.6" />
+		<img src="https://img.shields.io/badge/release-1.0.7-4BC51D.svg?style=flat" alt="1.0.7" />
     </a>
 	<img src="https://img.shields.io/github/downloads-pre/aRandomKiwi/Raids-For-Me/total.svg?style=popout-square&color=green" alt="Github Total Downloads" />
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1633517937">
-		<img src="https://img.shields.io/badge/RimWorld-1.4-purple.svg?longCache=true&style=plastic)" alt="Compatible Rimworld 1.4" />
+		<img src="https://img.shields.io/badge/RimWorld-1.5-purple.svg?longCache=true&style=plastic)" alt="Compatible Rimworld 1.5" />
     </a>
 	<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1633517937">
 		<img src="https://img.shields.io/badge/documentation-%F0%9F%94%8D-blue?style=flat" />
